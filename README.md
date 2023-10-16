@@ -34,3 +34,7 @@ We welcome contributions! If you'd like to enhance the Car Catalog app, please f
 This project is licensed under the [MIT License](LICENSE).
 
 Happy car browsing! 🚀🚗
+
+## Screen shot
+
+ <img src="/public/scrren-shot/screen-shot.jpg">
